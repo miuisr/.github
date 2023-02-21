@@ -1,1 +1,1 @@
-<img src="https://github.com/miuisr/.github/blob/main/Profile/sr_banner.jpg">
+<img src="https://github.com/miuisr/miuisr/blob/main/sr_banner.jpg">
